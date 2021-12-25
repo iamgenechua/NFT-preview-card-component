@@ -41,6 +41,7 @@ Various CSS elements turn cyan upon hover
 ### Links
 
 - Github Repo URL: [Github Repo](https://github.com/iamgenechua/NFT-preview-card-component.git)
+- Live URL: [Live URL](https://iamgenechua.github.io/NFT-preview-card-component/)
 
 ## My process
 
