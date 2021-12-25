@@ -109,6 +109,9 @@ In the css file, change the opacity of the overlay from 0 to 1 upon hover.
 /* this eye image has a z-index of 1 because the overlay applied by ::after would cover it. z-index of 1 is necessary for the eye to be visible */
 ```
 
+5. Page should have one main landmark
+   It is a best practice to use both HTML 5 and ARIA landmarks to ensure all content is contained within a navigational region. In HTML5, you should use elements like `header`, `nav`, `main`, and `footer`.
+
 ### Continued development
 
 I want to refine my usage of CSS grid.
