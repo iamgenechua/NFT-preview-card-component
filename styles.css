@@ -152,7 +152,7 @@ body {
 @media only screen and (min-width: 1300px) {
   .card {
     background-color: hsl(216, 50%, 16%);
-    width: 20vw;
+    width: 25vw;
     border-radius: 16px;
     margin: 20% auto;
   }
